@@ -1,2 +1,1 @@
-# VOIP-INDEX
-VOIP tool DDOS tool.. port scanning.. Etc
+This does not work. refer to another tool.
